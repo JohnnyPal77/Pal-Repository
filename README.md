@@ -1,2 +1,1 @@
-# pal-repository
-*exercise ready readme file*
+# Example of readme.md #
